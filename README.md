@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fredy Bustos</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 📝 I regulary write articles on https://fredybustos.com
+- 📝 I regulary write articles on <a href="https://fredybustos.com" target="_blank">fredybustos.com</a>
 
 - 💬 Ask me about **React**
 
