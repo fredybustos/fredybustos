@@ -12,6 +12,8 @@
   </a>
 </p>
 
+- 💼 Currently working as: **Software Engineering Frontend** at <a href="https://resuelvetudeuda.com/es-co/" target="_blank"><b>Resuelve tu deuda</b></a>
+
 - 📝 I regulary write articles on <a href="https://fredybustos.com" target="blank">fredybustos.com</a>
 
 - 💬 Ask me about **React**
