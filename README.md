@@ -33,10 +33,12 @@
 
 <br><br>
 
-<h3> My GitHub Stats(Only Public Contributions 😑)</h3>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=fredybustos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
 <p align="center">
   <samp>Made with :blue_heart: &nbsp;using GitHub Markdown</samp>
 </p>
+
+<h3><samp>one more thing</samp></h3>
+
+<h3><samp>My GitHub Stats(Only Public Contributions 😑)</samp></h3>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=fredybustos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
