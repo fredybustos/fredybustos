@@ -34,7 +34,7 @@
 <br><br>
 
 <p align="center">
-  <samp>Made with :blue_heart: &nbsp;using GitHub Markdown</samp>
+  <samp>Made with :blue_heart:&nbsp;using GitHub Markdown</samp>
 </p>
 
 <h3><samp>One More Thing</samp></h3>
