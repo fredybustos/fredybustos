@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fredy Bustos</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
-- 📝 I regulary write articles on [fredyBustos](https://fredybustos.com/)
+
+- 📝 I regulary write articles on https://fredybustos.com
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **afredybustos@gmail.com**
+
+- 🏋🏻 skills
 
 <p align="left">
   <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> 
