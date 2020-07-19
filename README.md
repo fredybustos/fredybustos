@@ -2,13 +2,13 @@
 <h3 align="center">A passionate frontend developer from Colombia</h3>
  <p align="center">
   <a href="https://twitter.com/bustosfredy" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bustosfredy" height="20" width="20" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bustosfredy" height="22" width="22" />
   </a>
   <a href="https://linkedin.com/in/fredy-bustos" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fredy-bustos" height="20" width="20" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fredy-bustos" height="22" width="22" />
   </a>
   <a href="https://codesandbox.com/fredybustos" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="fredybustos" height="20" width="20" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="fredybustos" height="22" width="22" />
   </a>
 </p>
 
@@ -24,4 +24,4 @@
   <img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="24" height="24"/>
 </p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=fredybustos&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=fredybustos&show_icons=true&theme=onedark)
