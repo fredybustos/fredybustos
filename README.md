@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+```javascript
+const fredy = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Styled-Components, Jest, apollo],
+}
+```
+
 <!--
 **fredybustos/fredybustos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
