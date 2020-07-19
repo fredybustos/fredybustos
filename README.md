@@ -1,3 +1,5 @@
+![readme-image](https://user-images.githubusercontent.com/9376106/87886584-057c9a80-c9e4-11ea-94a8-dfe0e44c5fdd.png)
+
 <h1 align="center"><samp>Hi 👋, I'm Fredy Bustos</samp></h1>
 <h3 align="center"><samp>A passionate frontend developer from Colombia</samp></h3>
 
