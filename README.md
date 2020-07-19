@@ -37,8 +37,10 @@
   <samp>Made with :blue_heart:&nbsp;using GitHub Markdown</samp>
 </p>
 
-<h3><samp>One More Thing</samp></h3>
-
-<h4><samp>My GitHub Stats(Only Public Contributions 😑)</samp></h4>
+<details>
+ <h4><samp>My GitHub Stats(Only Public Contributions 😑)</samp></h4>
+ <summary> <b><samp>One More Thing</b> <i>(click to expand!)</samp></i> </summary>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fredybustos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+</details>
