@@ -1,19 +1,19 @@
 ![readme-image](https://user-images.githubusercontent.com/9376106/87886584-057c9a80-c9e4-11ea-94a8-dfe0e44c5fdd.png)
 
 <h1 align="center"><samp>Hi 👋, I'm Fredy Bustos</samp></h1>
-<h3 align="center"><samp>A passionate frontend developer from Colombia</samp></h3>
+<h3 align="center"><samp>I'm apassionate frontend developer from Colombia</samp></h3>
 
 <br><br>
 
 <p align="center">
  <samp>
-  💼 Currently working as: <strong>Software Engineering Frontend</strong> at <a href="https://resuelvetudeuda.com/es-co/" target="_blank"><b>Resuelve tu deuda</b> </a>
+  💼 I Currently working as: <strong>Software Engineering Frontend</strong> at <a href="https://resuelvetudeuda.com/es-co/" target="_blank"><b>Resuelve tu deuda</b> </a>
   <br><br>
   📝 I regulary write articles on <a href="https://fredybustos.com" target="blank">fredybustos.com</a>
   <br><br>
-  💬 Ask me about React
+  💬 Ask me questions about React
   <br><br>
-  📫 How to reach me <strong>afredybustos@gmail.com</strong>
+  📫 You can locate me in <strong>afredybustos@gmail.com</strong>
   <br><br>
   🏋🏻 Skills
  </samp>
