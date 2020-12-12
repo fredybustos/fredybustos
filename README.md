@@ -7,7 +7,7 @@
 
 <p align="center">
  <samp>
-  💼 I Currently working as: <strong>Software Engineering Frontend</strong> at <a href="https://resuelvetudeuda.com/es-co/" target="_blank"><b>Resuelve tu deuda</b> </a>
+  💼 I Currently work as: <strong>Software Engineering Frontend</strong> at <a href="https://resuelvetudeuda.com/es-co/" target="_blank"><b>Resuelve tu deuda</b> </a>
   <br><br>
   📝 I regulary write articles on <a href="https://fredybustos.com" target="blank">fredybustos.com</a>
   <br><br>
