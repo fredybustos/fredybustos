@@ -9,7 +9,7 @@
  <samp>
   💼 I Currently work as: <strong>Software Engineering Frontend</strong> at <a href="https://resuelvetudeuda.com/es-co/" target="_blank"><b>Resuelve tu deuda</b> </a>
   <br><br>
-  📝 I regulary write articles on <a href="https://fredybustos.com" target="blank">fredybustos.com</a>
+  📝 I regulary write articles on <a href="https://fredy.netlify.app" target="blank">fredybustos</a>
   <br><br>
   💬 Ask me questions about React
   <br><br>
